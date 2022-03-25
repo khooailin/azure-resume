@@ -8,3 +8,4 @@ Create Azure resume following [ACG project video](https://www.youtube.com/watch?
 ## Creating backend
 - Create Azure Cosmos DB account database
 - Create Azure Function to interact with CosmosDB counter data
+- Test locally
