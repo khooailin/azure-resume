@@ -4,3 +4,5 @@ Create Azure resume following [ACG project video](https://www.youtube.com/watch?
 ## Creating frontend
 - Frontend folder contains the website.
 - main.js contains the visitor counter code.
+
+## Creating backend
