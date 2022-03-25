@@ -6,4 +6,5 @@ Create Azure resume following [ACG project video](https://www.youtube.com/watch?
 - main.js contains the visitor counter code.
 
 ## Creating backend
-- 
+- Create Azure Cosmos DB account database
+- Create Azure Function to interact with CosmosDB counter data
